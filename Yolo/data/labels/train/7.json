@@ -1,0 +1,82 @@
+{
+  "version": "6.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "0",
+      "points": [
+        [
+          94.8723404255319,
+          43.41843971631206
+        ],
+        [
+          224.3049645390071,
+          96.60992907801419
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "0",
+      "points": [
+        [
+          237.0709219858156,
+          61.50354609929078
+        ],
+        [
+          313.6666666666667,
+          156.5390070921986
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "0",
+      "points": [
+        [
+          174.6595744680851,
+          97.49645390070923
+        ],
+        [
+          264.5531914893617,
+          210.9716312056738
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "0",
+      "points": [
+        [
+          78.91489361702126,
+          88.9858156028369
+        ],
+        [
+          172.53191489361703,
+          174.97872340425533
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../../images/train/7.webp",
+  "imageData": null,
+  "imageHeight": 234,
+  "imageWidth": 344
+}

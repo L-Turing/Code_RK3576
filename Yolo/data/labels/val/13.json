@@ -1,0 +1,28 @@
+{
+  "version": "6.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "0",
+      "points": [
+        [
+          48.24768946395564,
+          82.07393715341959
+        ],
+        [
+          182.44362292051756,
+          150.46580406654343
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../../images/val/13.webp",
+  "imageData": null,
+  "imageHeight": 244,
+  "imageWidth": 244
+}

@@ -1,0 +1,46 @@
+{
+  "version": "6.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "0",
+      "points": [
+        [
+          184.63636363636363,
+          178.9090909090909
+        ],
+        [
+          303.1818181818182,
+          300.7272727272727
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "0",
+      "points": [
+        [
+          253.0,
+          261.45454545454544
+        ],
+        [
+          337.3636363636364,
+          412.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../../images/train/h.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 378
+}

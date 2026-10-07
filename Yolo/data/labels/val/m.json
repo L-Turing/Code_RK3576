@@ -1,0 +1,28 @@
+{
+  "version": "6.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "0",
+      "points": [
+        [
+          241.09090909090912,
+          102.54545454545455
+        ],
+        [
+          374.54545454545456,
+          289.45454545454544
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../../images/val/m.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 480
+}
